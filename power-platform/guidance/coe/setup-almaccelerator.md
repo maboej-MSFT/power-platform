@@ -126,7 +126,7 @@ Leave the Azure portal open, because you'll need to copy some information when y
 
     ![Establish connections to activate your solution](media/git-4.png "Establish connections to activate your solution.")
 
-1. Select **Import**.
+1. Select **Import**. Note that import solution can take from 5-60 minuts.
 
 ## Configure environment settings and deployment stages after import
 
